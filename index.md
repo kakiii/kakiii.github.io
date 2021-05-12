@@ -4,13 +4,13 @@ Email: [kakiatms@outlook.com](mailto:kakiatms@outlook.com)
 
 LinkedIn: [Jiaqi Wang](https://www.linkedin.com/in/jiaqi-wang-a0b77b195/)
 
-### Personal Profile
+## Personal Profile
 
 A self-motivated undergraduate student in penultimate year, pursuing a first-class degree of BSc. Computer Science, whose academic achievements and work experience prove this person a diligent one.
 
 An individual who is willing to work as a team with others and is also able to work on myself whether in study or employment. A quick and self-directed learner, able to manage time wisely when serval tasks are coming to the deadline.
 
-### Education &amp; Qualification
+## Education &amp; Qualification
 
 **2020-2022(expected): University of Liverpool – BSc. Computer Science**
 
@@ -20,7 +20,7 @@ An individual who is willing to work as a team with others and is also able to w
 
 **Key modules included:** Introduction to object-oriented programming, Computer System, Calculus, Linear Algebra
 
-### Research Experience
+## Research Experience
 
 **November 2019 – June 2020:** Voice-recognition technique related to Machine Learning.
 
@@ -41,7 +41,7 @@ Main contributions:
 
 - Deploy this project on cloud service and manage GitHub repository
 
-### Employment Experience
+## Employment Experience
 
 **July 2019 – August 2019: Jiangsu Hanwin Technology Co,LTD. - Data Engineer (Internship)**
 
@@ -52,7 +52,7 @@ Main contributions:
 - Collate and analyse the resulting data
 - Learn some techniques of data visualisation
 
-### Voluntary work
+## Voluntary work
 
 Summer, 2018 - **XJTLU 2018 Freshman Induction Week**
 
@@ -78,10 +78,10 @@ July, 2020 - **XJTLU 2020 Graduation Ceremony**
 
 - Guiding professors and assisting the Principle in presenting awards to faculty members.
 
-### Interests
+## Interests
 
 - Contribute to GitHub open-source projects (awesome-xjtlu)
 - Publish articles on my own blog
 - Participate in campus activities
 
-### Reference: Provided on request
+## Reference: Provided on request
