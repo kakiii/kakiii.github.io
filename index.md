@@ -1,10 +1,7 @@
 # Jiaqi Wang
 
-Address: 52 Islington, Liverpool, L3 8LG
-
-Mobile No. 07529973287
-
 Email: [kakiatms@outlook.com](mailto:kakiatms@outlook.com)
+LinkedIn: [Jiaqi Wang](https://www.linkedin.com/in/jiaqi-wang-a0b77b195/)
 
 ### Personal Profile
 
