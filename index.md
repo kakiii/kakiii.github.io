@@ -1,6 +1,7 @@
 # Jiaqi Wang
 
 Email: [kakiatms@outlook.com](mailto:kakiatms@outlook.com)
+
 LinkedIn: [Jiaqi Wang](https://www.linkedin.com/in/jiaqi-wang-a0b77b195/)
 
 ### Personal Profile
