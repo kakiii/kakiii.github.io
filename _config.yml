@@ -36,7 +36,7 @@ timezone: Europe/London # see https://en.wikipedia.org/wiki/List_of_tz_database_
 author:
   type      : # "person" (default), "organization"
   name      : Kaki Wong
-  url       :
+  url       : https://kakiii.github.io/
   avatar    : # path or url of avatar image (square)
   bio       : Here you are finally
   email     :
