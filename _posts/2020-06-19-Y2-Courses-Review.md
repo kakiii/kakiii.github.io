@@ -26,8 +26,7 @@ tags: old_article
 
 这学期的考核内容有这么三项：两次作业各10%，在期中之后紧接着布置，分别考察上下半个学期的知识；期末80%，40道选择题。
 
-这里我附上今年的期末考试试题：
-https://wws.lanzous.com/ix8Ujdtvfeh
+这里我附上今年的期末考试试题：https://wws.lanzous.com/ix8Ujdtvfeh
 
 ## 2. CSE104/CPT102
 
@@ -41,7 +40,7 @@ https://wws.lanzous.com/ix8Ujdtvfeh
 
 这门课的老师也有两位：Steven Guan和Jianjun Chen。只要你在上学期上过计算机系统这门课（CSE101/CPT101），那么你一定会对老关有极深的印象：
 
-![guan](assets/images/20200619/guan-meme.jpg)
+![guan](/assets/images/20200619/guan-meme.jpg)
 
 总之教学还是内味，4月10号前录播是没有的，tutorial也是没有的，内容大致就是介绍Java里一些常见的数据结构，比如ArrayList,Stack,Queue,HashMap等，然后再次炒了一下102的冷饭，复读一遍了排序算法和图论。
 
@@ -49,22 +48,21 @@ https://wws.lanzous.com/ix8Ujdtvfeh
 
 第一个作业主要是用贪心算法读取文件解决旅行商问题（TSP），然后再打印出路径和距离并完成一份报告，难度不大；但是我们毕竟不是隔壁EEE，不怎么擅长写报告。好在现在看起来给分还算仁慈：
 
-![104 Feedback](assets/images/20200619/104cw1-feedback.png)
+![104 Feedback](/assets/images/20200619/104cw1-feedback.png)
 
 第二个作业就稍显挑战性，主要思想是通过作业引导你完成的两个算子和自定义算子利用自己的算法来缩短cw1里面的路径然后打印完成。题目是不错的，开放性比较强，而且大家有不同的思路，虽然主要的算法还是那么几个。
 
 评分的一部分则是优化程度的排位赛，只有第一名才能满分。为此有些同学甚至考虑了另辟蹊径，记录如下：
 
-![Group Chat](assets/images/20200619/104-group-chat.png)
+![Group Chat](/assets/images/20200619/104-group-chat.png)
 
 说到这里我觉得Jianjun人还是很nice的，群里有问题看到都会回答，甚至在考前还在群里发了个不算小的红包：
 
-![Money](assets/images/20200619/nice.png)
+![Money](/assets/images/20200619/nice.png)
 
 只是我实在是没有发现作业和课程的关联性在哪里。作业里我好像只用到了ArrayList存放路径，而且还是cw1里本就提供的，别的比如栈和队列也是一个都用不上。最有关联的还是报告里的一个问题：如果将ArrayList换成LinkedList效率会怎样，除此之外没了。
 
-课件我这里就不给了，毕竟几年不变，也并不有趣，有兴趣的可以研究一下今年的两个作业，链接如下：
-https://wws.lanzous.com/ifjWPdtx21i
+课件我这里就不给了，毕竟几年不变，也并不有趣，有兴趣的可以研究一下今年的两个作业，链接如下：https://wws.lanzous.com/ifjWPdtx21i
 
 ## 结尾
 
