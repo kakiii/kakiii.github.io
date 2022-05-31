@@ -1,11 +1,11 @@
---
+---
 title: 写在不开学后
 tags: old article
 article_header:
   type: cover
   image:
     src: /assets/images/20200408/campus.jpg
---
+---
 
 
 ## 2022.5.31 Update
