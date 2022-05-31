@@ -1,6 +1,6 @@
 ---
 title: 写在不开学后
-tags: old article
+tags: old_article
 article_header:
   type: cover
   image:
